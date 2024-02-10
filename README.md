@@ -30,7 +30,7 @@
 ### Built With
 
 [![Python.js][Python.js]][Python-url]
-[Python.js]: https://img.shields.io/badge/python.js-000000?style=for-the-badge&logo=pythondotjs&logoColor=white
+[Python.js]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 
 
