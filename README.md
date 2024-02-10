@@ -1,11 +1,59 @@
-# calma-esse-heat-stress-internal
-**Public** repository for the Cozie-Apple deployment lead by Ben Gottkehaskamp.
+# DataScience - Template
 
-## Table Of Content
 
-- [watch_survey_geotracking_check](#watch_survey_geotracking_check)
-	- watch_survey
-	- notebooks
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#Project Description">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-## GeoTracking Check
-This survey serves as a validation tool for assessing the geospatial capabilities of Cozie. Its purpose is to conduct multiple passes along specific routes to identify discrepancies in longitude and latitude data, while also incorporating supplementary metadata for in-depth analysis of various influences. The primary focus is on outdoor locations and travel patterns following periods spent indoors. Besides the retreived Cozie data the following features are available in form of survey data: `tag/q_location_area` `tag/q_location_time` `tag/q_connection_network` `tag/q_connection_people` `tag/q_envi_traversion` `tag/q_envi_sky` `tag/q_envi_rain`, as well as some additional features that categorize the run like `tag/q_study` `tag/q_study_amount` `tag/q_study_setpoint`.
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+### Built With
+
+[![Python][Python.js]][Next-url]
+[Python.js]: https://img.shields.io/badge/python.js-000000?style=for-the-badge&logo=pythondotjs&logoColor=white
+[Python-url]: https://www.python.org/
+
+## Getting Started
+
+### Prerequisites
+
+
+### Installation
+
+Before you can run the code to the following:
+ - Clone the repository
+ - Create and activate a virtual Python environment.
+ - Install the `requirements.txt`:
+   ```py
+   pip install -r /path/to/requirements.txt 
+ - 
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+## Acknowledgments
+
+Thank you for your contributions and support in this project:
+
+- [Ben Gottkehaskamp](https://github.com/benterich) (creator)
