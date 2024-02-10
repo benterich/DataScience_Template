@@ -29,9 +29,10 @@
 
 ### Built With
 
-[![Python][Python.js]][Next-url]
+[![Python.js][Python.js]][Python-url]
 [Python.js]: https://img.shields.io/badge/python.js-000000?style=for-the-badge&logo=pythondotjs&logoColor=white
 [Python-url]: https://www.python.org/
+
 
 ## Getting Started
 
