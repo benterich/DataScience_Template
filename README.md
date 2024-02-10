@@ -27,25 +27,37 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This Project is an exemplary data science project.
+
 ### Built With
 
-- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
+<!-- GETTING STARTED -->
 ## Getting Started
 
 ### Prerequisites
 
+- Install the `requirements.txt`:
+   ```py
+   pip install -r /path/to/requirements.txt 
+
+`versionDisplay`
+```bash
+pandas 		= 2.1.0
+coziepy 	= 0.0.15
+DateTime	= 5.2
+```
 
 ### Installation
 
 Before you can run the code to the following:
  - Clone the repository
  - Create and activate a virtual Python environment.
- - Install the `requirements.txt`:
-   ```py
-   pip install -r /path/to/requirements.txt 
+ 
  - 
-
+<!-- LICENSE AND OTHER STUFF -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
