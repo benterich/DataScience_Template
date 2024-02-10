@@ -29,8 +29,8 @@
 
 ### Built With
 
-[![Python.js][Python.js]][Python-url]
-[Python.js]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
+[![Python][Python]][Python-url]
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
 
 
